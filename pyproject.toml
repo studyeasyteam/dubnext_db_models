@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = 'dubnext_db_models'
+version = '0.1.0'
+dependencies = [
+    # List your dependencies here
+    # "requests", "pandas",
+]
